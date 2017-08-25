@@ -85,7 +85,7 @@ class WP_Rekogni {
 	public function admin_notices() {
 		if ( ! empty( $_REQUEST['assign_tags_by_image_rekognition'] ) ) {
 			$assigned = intval( $_REQUEST['assign_tags_by_image_rekognition'] );
-			print '<div id="message" class="updated fade">'.sprintf( __( 'Assigned Tags to %s Post(s)', self::TEXT_DOMAIN ), $assigned ).'</div>';
+			print '<div id="message" class="updated fade"><p>'.sprintf( __( 'Assigned Tags to %s Post(s)', self::TEXT_DOMAIN ), $assigned ).'</p></div>';
 		}
 	}
 	
