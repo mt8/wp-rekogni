@@ -2,7 +2,7 @@
 
 /*
 	Plugin Name: WP Rekogni
-	Plugin URI: https://mt8.biz
+	Plugin URI: https://github.com/mt8/wp-rekogni
 	Description: Assign Tags to Posts By Amazon Rekognition
 	Version: 1.0
 	Author:  mt8biz
