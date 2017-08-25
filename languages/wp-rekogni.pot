@@ -1,0 +1,58 @@
+# Copyright (C) 2017 WP Rekogni
+# This file is distributed under the same license as the WP Rekogni package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Rekogni 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-rekogni\n"
+"POT-Creation-Date: 2017-08-25 06:56:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  wp-rekogni.pot (WP Rekogni 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: class-wp-rekogni-admin.php:16 class-wp-rekogni-admin.php:53
+msgid "WP Rekogni"
+msgstr ""
+
+#: class-wp-rekogni-admin.php:17
+msgid "Region"
+msgstr ""
+
+#: class-wp-rekogni-admin.php:18
+msgid "Access Key"
+msgstr ""
+
+#: class-wp-rekogni-admin.php:19
+msgid "Secret Access Key"
+msgstr ""
+
+#: class-wp-rekogni-admin.php:23
+msgid "Please Input Your AWS IAM settings."
+msgstr ""
+
+#: class-wp-rekogni.php:61
+msgid "Assign Tags by Image Rekognition"
+msgstr ""
+
+#: class-wp-rekogni.php:87
+msgid "Assigned Tags to %s Post(s)"
+msgstr ""
+
+#. #-#-#-#-#  wp-rekogni.pot (WP Rekogni 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wp-rekogni.pot (WP Rekogni 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://mt8.biz"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Assign Tags to Posts By Amazon Rekognition"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mt8biz"
+msgstr ""
