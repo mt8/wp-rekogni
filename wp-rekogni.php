@@ -10,7 +10,7 @@
 	Domain Path: /languages
 	License: GPL2
  */
-require __DIR__.'/aws.phar';
+require __DIR__.'/vendor/autoload.php';
 
 require_once plugin_dir_path( __FILE__ ) . '/class-wp-rekogni.php';
 require_once plugin_dir_path( __FILE__ ) . '/class-wp-rekogni-admin.php';

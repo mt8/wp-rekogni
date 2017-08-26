@@ -1,0 +1,6 @@
+.DS_Store
+.git
+.gitignore
+composer.json
+composer.lock
+README.md
