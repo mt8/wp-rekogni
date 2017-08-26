@@ -50,7 +50,8 @@ Assign Tags to Posts By Amazon Image Rekognition
 
 == Screenshots ==
 
-1. Select the post you want to assign tags and perform bulk editing.
+1. Input Your AWS IAM settings.
+2. Select the post you want to assign tags and perform bulk editing.
 
 == Frequently Asked Questions ==
 
