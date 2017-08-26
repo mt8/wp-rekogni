@@ -5,7 +5,7 @@ Tags: tags,AWS,Amazon Rekognition
 Requires at least: 4.8
 Requires PHP: 7.0 or Higher
 Tested up to: 4.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,7 +27,7 @@ Assign Tags to Posts By Amazon Image Rekognition
 
 == AWS IAM Policy Example
 
-```
+`
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -40,7 +40,7 @@ Assign Tags to Posts By Amazon Image Rekognition
         }
     ]
 }
-```
+`
 
 == Filters ==
 
@@ -60,7 +60,13 @@ Assign Tags to Posts By Amazon Image Rekognition
 = 1.0.0 =
 * First release
 
+= 1.0.1 =
+* Some fix
+
 == Changelog ==
 
 = 1.0.0 =
 * First release
+
+= 1.0.1 =
+* Mod readme.txt, Fix check setting

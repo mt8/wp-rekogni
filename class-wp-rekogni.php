@@ -15,7 +15,7 @@ class WP_Rekogni {
 	
 	public function __construct() {
 		$this->admin = New WP_Rekogni_Admin();		
-		$this->option = get_option( self::SLUG );
+		$this->option = get_option( self::SLUG, array( 'region' => '', 'key' => '', 'secret' => '' ) );
 		$this->assign_setting = $this->get_assign_setting();
 	}
 	
